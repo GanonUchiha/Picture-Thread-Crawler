@@ -1,6 +1,9 @@
 # Picture-Thread-Crawler
 A simple Python program that scrapes all images posted in a thread on [Bahamut](https://forum.gamer.com.tw/).
 
+## Known Issue(s)
+Due to my laziness, some file paths filenames are hardcoded so that it would not work properly in other environments.
+
 ## Environment
 
 This project mainly uses the following packages:
