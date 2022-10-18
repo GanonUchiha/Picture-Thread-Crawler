@@ -1,5 +1,5 @@
 # Picture-Thread-Crawler
- Picture-Thread-Crawler
+A simple Python program that scrapes all images posted in a thread on [Bahamut](https://forum.gamer.com.tw/).
 
 ## Environment
 
